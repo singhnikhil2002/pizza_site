@@ -1,0 +1,7 @@
+stripe publish key : pk_test_51NSmVGSFxYM7xezH5OVfQSm0GrbjtT7az9hEZgZKEsxwOBjWLjLfkkdYlK2r26aXt1ytOQDhk7r0NZY3NLs6fp5D00IirXAdfc
+
+secret key : sk_test_51NSmVGSFxYM7xezHKlNtICxBuTpHBWJSfWXwLSoP8B36abevnrsitoC8S5NzCdJHGXfwNNcoyXKi0OYoMqo7aqdF00OXWDAUPR
+
+han payment intents api se Jo client secret milega 
+use confirmcard payment api use krke frontend she verify kr do
+ho jaaega
